@@ -1,2 +1,2 @@
-# CInema_For_ALtspaceVR
- Cinema For AltspaceVR
+# Cinema_For_Altspace
+ This is a Cinema for Altspace
