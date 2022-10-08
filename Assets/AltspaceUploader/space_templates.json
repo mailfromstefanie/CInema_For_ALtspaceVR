@@ -1,1 +1,1 @@
-{"uploadEntries":[{"AltspaceId":"2092853335878008844","Name":"test2","IsEnabled":true,"UploadItems":[{"PrefabFilepath":"Assets\\Cinema_For_Altspace\\Scenes\\Cinema_For_Altspace.unity","ForAndroid":true,"ForWin":true,"ForMac":true}],"PerPlatformAssets":false,"HideContents":false}]}
+{"uploadEntries":[{"AltspaceId":"2107537496941265351","Name":"CINEMA_TEST","IsEnabled":true,"UploadItems":[{"PrefabFilepath":"Assets\\Scenes\\Cinema_For_Altspace.unity","ForAndroid":true,"ForWin":true,"ForMac":true}],"PerPlatformAssets":false,"HideContents":false}]}

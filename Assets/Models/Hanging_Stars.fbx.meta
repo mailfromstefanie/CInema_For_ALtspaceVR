@@ -12,8 +12,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Lit
-    second: {fileID: 2100000, guid: 0e2f23bd296165a4da2c4785e7903afa, type: 2}
+      name: doorhandle
+    second: {fileID: 2100000, guid: f8a5e92dfd0e3ed45be7b978ec6e2a5b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -68,9 +68,9 @@ ModelImporter:
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15
-    secondaryUVHardAngle: 66
+    secondaryUVHardAngle: 31
     secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 10
+    secondaryUVMinLightmapResolution: 60
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 10
     useFileScale: 1
