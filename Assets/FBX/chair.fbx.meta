@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Anthracite_Material
-    second: {fileID: 2100000, guid: 72a8357a1b441dd439d25755f82213d4, type: 2}
+    second: {fileID: 2100000, guid: b30a54a8166fa6f4c889f4a1bba7f42f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Chair_Material
-    second: {fileID: 2100000, guid: 8aac7f57a9fffc649989563391fcf321, type: 2}
+    second: {fileID: 2100000, guid: 7a0ec5d49646c634c844ade9b9825195, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
